@@ -1,0 +1,4 @@
+pi=3.141592
+radio=float(input("Introduzca el radio cm \n"))
+area=pi*radio*2
+print("La circunferencia es:", area)
